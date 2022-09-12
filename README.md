@@ -1,4 +1,4 @@
-# Решења питања са Scrum Open курса (www.scrum.org)
+# Питања и одговори са Scrum Open курса
 
 [линк до курса](https://www.classmarker.com/online-test/start/test-intro/?quiz=3qg5fac7589c0416)
 
